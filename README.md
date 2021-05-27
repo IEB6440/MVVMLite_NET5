@@ -28,4 +28,4 @@ private void MyMethod(string parameter){
 
 Release 1.1.0
 
-Added UI logic methods (GenerateMenuHeaders<T>() to generate menu items name from pages names enums)
+Added UI logic methods (public static T GenerateMenuHeaders<T>() to generate menu items name from pages names enums)
